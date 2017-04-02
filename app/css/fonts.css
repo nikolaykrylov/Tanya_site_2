@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "aBosaNova";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/aBosaNova/aBosaNova.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "aBosaNova";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/aBosaNova/aBosaNova.eot?#iefix") format("embedded-opentype"); }
+
+@font-face {
+  font-family: "aBosaNova";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/aBosaNova/aBosaNova.woff") format("woff"); }
+
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Roboto/Roboto.ttf") format("truetype"); }
